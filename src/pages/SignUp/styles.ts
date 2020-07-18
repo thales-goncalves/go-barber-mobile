@@ -28,7 +28,7 @@ export const LogonAccountButton = styled.TouchableOpacity`
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  margin-bottom: ${getBottomSpace};
+  margin-bottom: ${getBottomSpace}px;
 `;
 
 export const LogonAccountText = styled.Text`

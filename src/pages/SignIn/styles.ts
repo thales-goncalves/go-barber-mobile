@@ -38,7 +38,7 @@ export const CreateAccountButton = styled.TouchableOpacity`
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  margin-bottom: ${getBottomSpace};
+  margin-bottom: ${getBottomSpace}px;
 `;
 
 export const CreateAccountText = styled.Text`
